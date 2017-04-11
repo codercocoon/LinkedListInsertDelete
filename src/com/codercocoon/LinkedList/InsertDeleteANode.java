@@ -1,8 +1,10 @@
 package com.codercocoon.LinkedList;
 
 /**
+ * This class represents some operations about linked lists, especially how you
+ * can Insert at first, at last, at Nth position, and delete from Nth position.
  * 
- * @author contact@codercocoon.com
+ * @author contact@codercocoon.com.
  *
  */
 public class InsertDeleteANode {
