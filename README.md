@@ -8,6 +8,6 @@ Insert an element at last of doubly linked list.
 Insert an element at Nth position of doubly linked list.
 Delete an element from Nth position of doubly linked list.
 
-Get the sources of the example from the following GitHub url : https://github.com/codercocoon/DoublyLinkedListInsertDelete.git
+Get the sources of the example from the following GitHub url : https://github.com/javaspringexamples/DoublyLinkedListInsertDelete.git
 
-Or Download a .zip file : https://github.com/codercocoon/DoublyLinkedListInsertDelete/archive/master.zip
+Or Download a .zip file : https://github.com/javaspringexamples/DoublyLinkedListInsertDelete/archive/master.zip
